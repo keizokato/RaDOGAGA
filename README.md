@@ -48,7 +48,7 @@ Unfortunately, we will not distribute the source code due to the license issue.
 Our implementation is based on [DAGMM](https://github.com/tnakae/DAGMM). 
 You can modify the above code according to the description in the paper. 
 Note that in the above code, the residual error is concatenated to latent variables. 
-In this experiment, the residual error is not neccesarry. 
+In this experiment, the residual error is not necessary. 
 
 #### Requirement
 Use reqirements.txt in EXP_5.2_toy directory.
