@@ -66,6 +66,7 @@ Use reqirements.txt in EXP_5.3_anomaly directory.
 #### Dataset
 Datasets can be downloaded at https://kdd.ics.uci.edu/ and http://odds.cs.stonybrook.edu.
 Note that the data should be max-min normalized towards the channel axis.
+The split for each dataset can be downloaded at https://drive.google.com/drive/folders/1iJahfG87OP9gxTkPGVQ8vMtcGcVb_He1?usp=sharing.
 
 ## LICENSE
 [Apache license 2.0](https://github.com/keizokato/RaDOGAGA/blob/master/LICENSE).
